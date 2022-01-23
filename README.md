@@ -1,5 +1,7 @@
 ## [Tasks](https://github.com/ronishen/ronishen/issues/1)
 
+## [Project Board](https://github.com/users/ronishen/projects/1/views/1)
+
 <!--
 **ronishen/ronishen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
